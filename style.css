@@ -281,24 +281,37 @@ hr:last-of-type {
 
 .masterbatch h1 {
   color: #666;
-  background: linear-gradient(to right, #fff, rgba(241, 14, 142, 0.3));
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.5),
+    rgba(241, 14, 142, 0.3)
+  );
   padding: 1rem 0;
   text-align: center;
 }
 
 .pigments h1 {
   color: #666;
-  background: linear-gradient(to right, #fff, rgba(255, 187, 0, 0.3));
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 187, 0, 0.3)
+  );
   padding: 1rem 0;
   text-align: center;
 }
 
 .color-matching h1 {
   color: #666;
-  background: linear-gradient(to right, #fff, rgba(183, 90, 236, 0.3));
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.5),
+    rgba(183, 90, 236, 0.3)
+  );
   padding: 1rem 0;
   text-align: center;
 }
+
 
 .recycle__container {
   display: flex;
