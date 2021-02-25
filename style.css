@@ -808,6 +808,11 @@ footer {
   .recycle__container {
     margin-top: 0;
   }
+  
+  .contact__card-container-main {
+    margin: 0 1rem 10rem;
+  }
+
   .contact__card-item {
     margin: 2rem 0rem;
   }
